@@ -1,0 +1,858 @@
+@media (max-width: 1200px) {
+    .header-box h1 {
+        font-size: 45px;
+    }
+
+    .header-box p {
+        font-size: 38px;
+    }
+
+    .button {
+        padding: 10px 15px;
+        margin-right: 50px;
+        font-size: 22px;
+    }
+
+    .header-box a {
+        padding: 10px 15px;
+        font-size: 22px;
+    }
+
+    #zakaz:before {
+        top: 35px;
+        height: 84%;
+    }
+
+    .zakaz h2 span {
+        font-size: 45px;
+    }
+
+    .zakaz h2 {
+        font-size: 33px;
+    }
+
+    .play {
+        width: 49%;
+        height: 128%;
+        right: 82px;
+        top: -62px;
+    }
+
+    .zakaz {
+        padding: 40px 25px 20px 50px;
+        width: 60%;
+        top: -15px;
+        left: 0;
+    }
+
+    .zakaz-box:before {
+        width: 86%;
+        height: 115%;
+        top: -40px;
+    }
+
+    #projects {
+        padding: 35px 0 85px;
+    }
+
+    #projects:before {
+        height: 140%;
+    }
+
+    .project-title {
+        font-size: 42px;
+    }
+
+    .economy-box h2 {
+        font-size: 43px;
+    }
+
+    .economy-box h2 span {
+        font-size: 70px;
+    }
+
+    .economy-box a {
+        padding: 10px 15px;
+        font-size: 22px
+    }
+
+    .benefits-title {
+        font-size: 40px;
+        margin-bottom: 70px;
+    }
+
+    .sides-title {
+        margin-bottom: 20px;
+    }
+
+    .ceiling-title {
+        font-size: 39px;
+        margin-bottom: 60px;
+    }
+
+    .about-title {
+        font-size: 60px;
+    }
+
+    .footer-social li:first-child {
+        font-size: 16px;
+    }
+
+    .footer-social img {
+        max-width: 40px;
+    }
+
+    .contact-box img {
+        max-height: 40px;
+        margin-right: 8px;
+    }
+
+    .contact-box img {
+        max-width: 40px;
+        max-height: 40px;
+        margin-right: 8px;
+    }
+
+    .contact-box p {
+        font-size: 14px;
+    }
+
+    .contact-box p span {
+        font-size: 16px;
+    }
+
+}
+
+@media (max-width: 992px) {
+    header {
+        display: none;
+    }
+    .burgerBtn{
+        display: block;}
+    .header-box h1 {
+        font-size: 35px;
+    }
+
+    .header-box p {
+        font-size: 30px;
+    }
+
+    .button {
+        padding: 7px 12px;
+        margin-right: 30px;
+        font-size: 16px;
+    }
+
+    .header-box a {
+        padding: 7px 12px;
+        margin-right: 30px;
+        font-size: 16px;
+    }
+
+    #zakaz {
+        padding: 155px 0 70px;
+    }
+
+    #zakaz:before {
+        height: 87%;
+    }
+
+    .zakaz {
+        padding: 36px 82px 20px 48px;
+        width: 72%;
+        top: -38px;
+        left: -18px;
+    }
+
+    .zakaz-box:before {
+        height: 109%;
+        width: 100%;
+        top: -50px;
+    }
+
+    .zakaz h2 {
+        font-size: 26px;
+    }
+
+    .zakaz h2 span {
+        font-size: 32px;
+    }
+
+    .play {
+        height: 119%;
+        width: 52%;
+        right: 12px;
+        top: -65px;
+    }
+
+    #projects {
+        padding: 25px 0 85px;
+    }
+
+    #projects:before {
+        top: -60%;
+        height: 150%;
+    }
+
+    .project-title {
+        top: -20px;
+        font-size: 38px;
+        margin-bottom: 0;
+    }
+
+    .project-slider {
+        top: 0;
+    }
+
+    .prvBtn {
+        top: 44%;
+        left: -6%;
+    }
+
+    .nxtBtn {
+        top: 44%;
+        right: -6%;
+    }
+
+    #economy {
+        background-size: cover;
+        background-position: center;
+    }
+
+    .economy-box h2 {
+        font-size: 35px;
+    }
+
+    .economy-box h2 span {
+        font-size: 63px;
+    }
+
+    .economy-box a {
+        padding: 7px 12px;
+        font-size: 16px;
+    }
+
+    .years {
+        font-size: 50px;
+    }
+
+    .years span {
+        font-size: 90px;
+    }
+
+    #ceiling:before {
+        height: 100%;
+    }
+
+    .ceiling-text {
+        padding-bottom: 60px;
+        margin-top: -40px;
+    }
+
+    .btn-form {
+        left: 0;
+        bottom: 100px;
+    }
+
+    .about-title {
+        margin-bottom: 45px;
+        font-size: 45px;
+    }
+
+    .video-popup {
+        width: 720px;
+        height: 450px;
+    }
+
+    .video-popup iframe {
+        width: 720px;
+        height: 450px;
+    }
+    .top {
+        flex-direction: column;
+        display: flex;}
+    .top p span {
+        font-size: 19px;
+        margin: 0 0 2px;}
+    .top p {
+        font-size: 21px;
+        margin: 0 0 30px;}
+    .logo{
+        margin-bottom: 30px;
+    }
+    .logo img {
+        max-width: 120px;
+    }
+    .top button {
+        height: auto;
+        font-size: 17px;
+        padding: 13px 30px;}
+    .sub-top {
+        display: flex;
+        flex-direction: column;
+        align-items: center;}
+    ul.nav-items {
+        float: none;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+    }
+    .social{
+        margin: 0;
+    }
+    .top-item a {
+        margin: 0;}
+    ul.nav-items li{
+        margin: 0 auto 35px;
+        font-size: 25px;
+    }
+    ul.social li {
+        padding: 0;
+        margin: 0 10px 35px;
+        font-size: 30px;
+    }
+    .number{
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 768px) {
+    #header {
+        padding: 25% 0 25% 0;
+        background-size: cover;
+    }
+
+    .zakaz {
+        padding: 20px 100px 10px 30px;
+        width: 75%;
+        left: 9px;
+    }
+
+    .zakaz-box:before {
+        height: 114%;
+        left: 1px;
+        width: 95%;
+    }
+
+    .zakaz h2 {
+        font-size: 17px;
+    }
+
+    .zakaz h2 span {
+        font-size: 22px;
+    }
+
+    .play {
+        width: 51%;
+        right: 22px;
+        height: 132%;
+    }
+
+    .want-btn {
+        padding: 4px 9px;
+        font-size: 16px;
+        margin: 10px 23px 15px;
+    }
+
+    #projects:before {
+        top: -245px;
+    }
+
+    .project-title {
+        top: -10px;
+        font-size: 33px;
+    }
+
+    .nxtBtn, .prvBtn {
+        width: 25px;
+        height: 35px;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .economy-box h2 span {
+        font-size: 56px;
+    }
+
+    .economy-box h2 {
+        font-size: 25px;
+    }
+
+    #our_benefits:after {
+        height: 86%;
+        bottom: -3%;
+    }
+
+    .benefits-box {
+        flex-wrap: wrap;
+    }
+
+    .left-side, .right-side {
+        width: 100%;
+        margin-bottom: 60px;
+    }
+
+    .ceiling-box img {
+        width: 100%;
+    }
+
+    .btn-form {
+        left: 0;
+        bottom: 1.9%;
+    }
+    .footer-block{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer-contacts {
+        display: block;
+        margin: 0 auto;}
+    .footer-contacts li{
+        margin-bottom: 12px;
+    }
+    .video-popup {
+        width: 570px;
+        height: 320px;
+    }
+
+    .video-popup iframe {
+        width: 570px;
+        height: 320px;
+    }
+}
+
+@media (max-width: 575px) {
+    #zakaz:before {
+        height: 100%;
+    }
+
+    .zakaz-box:before {
+        width: 72%;
+        height: 184%;
+        top: -90px;
+    }
+
+    .zakaz {
+        padding: 23px 63px;
+        width: 65%;
+        top: -95px;
+        left: 0;
+        right: 0;
+        margin: auto;
+        text-align: center;
+    }
+
+    .zakaz h2 {
+        width: 100%;
+    }
+
+    .play {
+        width: 79%;
+        right: 0;
+        left: 0;
+        margin: auto;
+        top: 75px;
+        height: 100%;
+    }
+
+    #projects:before {
+        top: -65%;
+        height: 160%;
+    }
+
+    .project-title {
+        top: 10px;
+        font-size: 30px;
+    }
+
+    .project-slider {
+        top: 25px;
+        width: 80%;
+    }
+    .footer-social li:first-child{
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin: 5px 0;
+    }
+
+    .video-popup {
+        width: 420px;
+        height: 240px;
+    }
+
+    .video-popup iframe {
+        width: 420px;
+        height: 240px;
+    }
+    .top p span {
+        font-size: 16px;}
+    .top p {
+        font-size: 17px;
+        margin: 0 0 25px;
+    }
+    .top button {
+        font-size: 16px;
+        padding: 7px 14px;
+    }
+    ul.social li {
+        margin: 0 10px 30px;
+        font-size: 28px;
+    }
+    ul.nav-items li {
+        margin: 0 auto 30px;
+        font-size: 21px;
+    }
+    .number{
+        font-size: 21px;
+    }
+}
+
+@media (max-width: 515px) {
+    .button {
+        padding: 7px 9px;
+        margin-right: 10px;
+        font-size: 15px;
+    }
+
+    .header-box a {
+        padding: 7px 9px;
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .zakaz {
+        padding: 23px 20px;
+    }
+
+    .nxtBtn, .prvBtn {
+        width: 15px;
+        height: 23px;
+    }
+
+    .economy-box h2 span {
+        font-size: 50px;
+    }
+    .top p {
+        font-size: 15px;
+        margin: 0 0 20px;
+    }
+    .top p span{
+        font-size: 14px;
+    }
+    .logo {
+        margin-bottom: 20px;
+    }
+    .top button {
+        font-size: 14px;
+        padding: 7px 16px;
+    }
+    ul.social li {
+        margin: 0 10px 25px;
+        font-size: 23px;
+    }
+    .number {
+        font-size: 19px;
+    }
+}
+
+@media (max-width: 414px) {
+    .header-box {
+        text-align: center;
+    }
+
+    .header-box h1 {
+        font-size: 30px;
+        margin-bottom: 25px;
+    }
+
+    .header-box p {
+        line-height: 25px;
+    }
+
+    .button {
+        padding: 4px 8px;
+        margin-right: 20px;
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+
+    .topBtn {
+        margin: 0 auto 15px;
+    }
+
+    .header-box a {
+        margin: 0 auto;
+        padding: 4px 8px;
+        font-size: 15px;
+    }
+
+    .zakaz-box:before {
+        width: 85%;
+        height: 186%;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+
+    .zakaz {
+        padding: 23px 20px;
+        width: 72%;
+        left: 0;
+        right: 0;
+        margin: auto;
+        text-align: center;
+    }
+
+    .zakaz h2 span {
+        width: 100%;
+        padding: 0 55px;
+    }
+
+    .play {
+        width: 90%;
+        height: 100%;
+    }
+
+    .economy-box {
+        text-align: center;
+    }
+
+    .economy-box h2 span {
+        font-size: 38px;
+    }
+
+    .economy-box h2 {
+        font-size: 19px;
+    }
+
+    .economy-box a {
+        padding: 4px 8px;
+        font-size: 15px;
+    }
+
+    .benefits-title {
+        font-size: 27px;
+        margin: 35px 0;
+    }
+
+    .sides-title {
+        margin-bottom: 18px;
+        font-size: 20px;
+    }
+
+    .years {
+        font-size: 30px;
+    }
+
+    .years span {
+        font-size: 70px;
+    }
+
+    .ceiling-title {
+        margin-bottom: 40px;
+        font-size: 27px;
+    }
+
+    .ceiling-text {
+        padding-bottom: 40px;
+    }
+
+    .ceiling-text h3 {
+        font-size: 20px;
+    }
+
+    .btn-form {
+        padding: 5px 35px;
+        display: block;
+        position: relative;
+        margin: 0 auto;
+    }
+
+    section {
+        padding: 50px 0;
+    }
+
+    .about-title {
+        margin-bottom: 25px;
+        font-size: 27px;
+    }
+
+    .about-text {
+        font-size: 14px;
+    }
+
+    .video-popup {
+        width: 290px;
+        height: 175px;
+        left: 42%;
+    }
+
+    .video-popup iframe {
+        width: 290px;
+        height: 175px;
+    }
+
+    .close-video-popup {
+        top: -22%;
+        right: -6%;
+    }
+
+    .popup {
+        width: 320px;
+        height: 385px;
+        padding: 25px;
+    }
+
+    form h3 {
+        font-size: 20px;
+        margin: 25px 0;
+    }
+
+    form input {
+        height: 50px;
+    }
+
+    .submitBtn {
+        font-size: 18px;
+        margin: 19px 0;
+        padding: 12px;
+    }
+
+    .check-box label {
+        font-size: 12px;
+    }
+    .top p {
+        font-size: 12px;}
+    .top button {
+        font-size: 13px;
+        padding: 6px 9px;
+    }
+    ul.nav-items li {
+        margin: 0 auto 25px;
+        font-size: 19px;
+    }
+    .number {
+        font-size: 14px;
+    }
+    .logo img {
+        max-width: 100px;
+    }
+
+}
+
+@media (max-width: 360px) {
+    .header-box h1 {
+        font-size: 27px;
+    }
+
+    .zakaz {
+        padding: 20px 15px;
+    }
+
+    .zakaz h2 {
+        font-size: 15px;
+        width: 100%;
+    }
+
+    .zakaz h2 span {
+        font-size: 18px;
+    }
+
+    .play {
+        width: 92%;
+    }
+
+    .video-overlay {
+        top: -22px;
+        left: 25px;
+    }
+
+    .ceiling-text {
+        margin-top: -20px;
+    }
+
+    .btn-form {
+        padding: 3px 24px;
+        bottom: 2%;
+        margin: 0 auto 15px;
+    }
+
+    .popup {
+        width: 90%;
+    }
+
+    form h3 {
+        font-size: 20px;
+        margin: 25px 0;
+    }
+
+    .submitBtn {
+        font-size: 13px;
+        padding: 13px;
+    }
+
+    form input {
+        height: 50px;
+    }
+
+    .nxtBtn, .prvBtn {
+        width: 11px;
+        height: 16px;
+    }
+
+}
+
+@media (max-width: 320px),(max-height: 568px) {
+    .zakaz h2 span {
+        padding: 0 35px;
+    }
+
+    .ceiling-title {
+        font-size: 25px;
+    }
+
+    .ceiling-text h3 {
+        font-size: 19px;
+    }
+
+    .submitBtn {
+        padding: 13px;
+    }
+    .button {
+        padding: 4px 8px;
+        margin: 14px 0;
+    }
+
+    .project-title {
+        font-size: 25px;
+    }
+
+    .benefits-title {
+        font-size: 22px;
+    }
+
+    .sides-title {
+        font-size: 17px;
+    }
+
+    .economy-box h2 span {
+        font-size: 35px;
+    }
+
+    #our_benefits {
+        padding: 60px 0 15px;
+    }
+
+    #our_benefits:after {
+        height: 84%;
+        bottom: -2%;
+    }
+
+    #about_us {
+        padding: 40px 0;
+    }
+}
+
